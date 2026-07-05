@@ -1,7 +1,7 @@
 # Privacy Policy
 
 **Nudge — Smart Watch Alarm**
-Last updated: March 2, 2026
+Last updated: July 5, 2026
 
 ---
 
@@ -60,9 +60,9 @@ For users in the EU/EEA, Nudge uses Google's User Messaging Platform (UMP) to re
 
 Nudge uses [RevenueCat](https://www.revenuecat.com/privacy/) to manage supporter subscriptions. RevenueCat receives your anonymized app user ID and subscription status from Google Play to verify entitlements. No personal information beyond your subscription status is shared.
 
-### Firebase / Google Analytics
+### No Usage Analytics
 
-The app includes Firebase as a technical dependency for AdMob. No custom analytics events are tracked. Standard Firebase data collection may include crash reports and basic app performance metrics according to [Firebase's Privacy Policy](https://firebase.google.com/support/privacy).
+Nudge does **not** include Firebase Analytics or any other usage-analytics SDK. We do not track in-app events or collect app-usage statistics. The only third parties that receive any data are Google AdMob (advertising, free tier only), Google UMP (consent), and RevenueCat / Google Play Billing (optional subscriptions), as described above.
 
 ---
 
